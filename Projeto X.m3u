@@ -2,7 +2,7 @@
 
 # ===== TV ABERTAS =====
 #EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="TV Abertas",GLOBO SP
-http://200.115.112.44:64347/play/a0dk
+https://live-tvg-pe-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MjQzMjc4NSwiaWF0IjoxNzcyNDExMTg1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijc4MDNlNzE2LWY3ZTctNGNkMi05N2NiLTM2NjI2N2QxZDgxNyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc2VyL3BsYXlsaXN0Lm0zdTgifQ.itCcgffxGem_Hm5WFcY_kJqdHwEzNYnWpM4uPOIgP40h4ClPIsEECVMCTAvB2UH51I1XoiCx7DHEmGM0utTcEzjCSQwtbtLnndO76bfsy5HA5G4w3VETecsbOqjULN4XPfqqrqZgqURP2BQh6yoYCMTQYsOLyAoHYsJGTSLmIdF-5eXE-PWTyV-daAKZN8qNwYBt0JDsd-lbAIxyP-d01eIydu-1J2suWXDf8QvKnV-WxcKwHS2JwzYhhK9gOeHuHcx1MlOtV39w97zmeU3wdPvTpam5hfWzSKEpj0KNgm1hjmSwXYABoPJ-yA251ZchLj0ohh5yPMnXkEhpnyUIiw/live/f(i=2)/globo-ser/globo-ser-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV Abertas",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
@@ -56,4 +56,5 @@ http://200.115.112.44:20900/play/a0b4
 #EXTINF:-1 tvg-name="sportv 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 2 HD
 http://200.115.112.44:20900/play/a0cv
 #EXTINF:-1 tvg-name="sportv 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-1-1.png" group-title="Esportes",sportv 3 HD
+
 http://200.115.112.44:20900/play/a0cw
