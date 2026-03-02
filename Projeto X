@@ -2,7 +2,7 @@
 
 # ===== TV ABERTAS =====
 #EXTINF:-1 tvg-name="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="TV Abertas",GLOBO SP
-https://agropesca.live/live/globosp/index.m3u8
+https://live-tvg-pe-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLXBlLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MjQzMjUyMywiaWF0IjoxNzcyNDEwOTIzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijc4MDNlNzE2LWY3ZTctNGNkMi05N2NiLTM2NjI2N2QxZDgxNyIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc2VyL3BsYXlsaXN0Lm0zdTgifQ.Zw7r1B0V5-tS16PiuJJd6D4KsEiZHHqCWRCNWH-m0dsdPaaA2mNIpJKErTXX4Pg3OzHAczlIc95fVv3YpzX-HomsTLfebEQkNBupiW0q9wyVF_JCfvU_I2a-FEF6RFkuA7Czo8wl5fiTHCBgrm6IiwXqYWLYfyLw9Kpia5Kuhimu6iddDxSK1Kbc4xbiI85MeG_ijg6ZPX534XiOhzITbnJWYKDVLIk0rICNV4AUByURCJBAfHg1nboEv8_TcFKVYwLn3Vx9LBc00C2TXAEKw3bfXEgPXgkx49Xwfi29aTekOyJdm_zSECyrY27tNun759GnhNngk4kH7ReXc90yqA/live/f(i=2)/globo-ser/globo-ser-audio_1=96000-video=3442944.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV Abertas",SBT
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/ac63b34e-0615-4402-a359-892f205ccd70/5.m3u8
 #EXTINF:-1 tvg-name="BAND" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="TV Abertas",BAND
